@@ -19,7 +19,7 @@ Cross-platform (Android + iOS) SDK for integrating Footprints AI campaign delive
 Since the sample app bundles the SDK via a local path dependency, clone both repos side by side:
 
 ```bash
-git clone https://github.com/Footprints-for-Retail/flutter-mobile-sdk.git footprints_sdk
+git clone https://github.com/footprints-ai/flutter-mobile-sdk.git footprints_sdk
 ```
 
 Then reference it from your app's `pubspec.yaml`:
@@ -36,7 +36,7 @@ Or as a git dependency if you prefer not to clone:
 dependencies:
   footprints_sdk:
     git:
-      url: https://github.com/Footprints-for-Retail/flutter-mobile-sdk.git
+      url: https://github.com/footprints-ai/flutter-mobile-sdk.git
       ref: main
 ```
 
@@ -336,7 +336,7 @@ FootprintsSdk(
 
 ## Sample App
 
-See the [flutter-mobile-sdk-sample-app](https://github.com/Footprints-for-Retail/flutter-mobile-sdk-sample-app) repository for a complete working integration demonstrating all four widget types, tracking, a live console, and an iOS + Android build setup with all permissions pre-configured.
+See the [flutter-mobile-sdk-sample-app](https://github.com/footprints-ai/flutter-mobile-sdk-sample-app) repository for a complete working integration demonstrating all four widget types, tracking, a live console, and an iOS + Android build setup with all permissions pre-configured.
 
 ## License
 

@@ -1,7 +1,7 @@
 name: footprints_sdk
 description: Footprints AI mobile SDK for campaign delivery, ad rendering, and event tracking.
 version: 0.1.2
-homepage: https://github.com/Footprints-for-Retail/footprints-flutter-sdk
+homepage: https://github.com/footprints-ai/footprints-flutter-sdk
 
 environment:
   sdk: ^3.4.0
